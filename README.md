@@ -7,8 +7,8 @@ within the system. Use cases are "Log in", "Check Balance", "Insert Money", "Wit
   The class diagram is the main building block of object-oriented modeling. It is used for general conceptual modeling of the structure of the application, and for detailed modeling translating the models into programming code. 
   There will be two main classes which are User and ATM. Check Balance, InsertMoney, WithdrawMoney, TransferMoney, EditInformation and OtherOperations are inherited from ATM class. Current and Saving accounts are inherited from CheckBalance and TransferToNumber and TransferToAccount are inherited from the TransferMoney.
 In light of the information, the python code should include: 
-*Error controls (try/except)
-*Holding information in a txt, csv or json file
+* Error controls (try/except)
+* Holding information in a txt, csv or json file
 * GUI (PyQT5)
 
 
