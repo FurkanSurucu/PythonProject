@@ -10,6 +10,8 @@ In light of the information, the python code should include:
 *Error controls (try/except)
 *Holding information in a txt, csv or json file
 * GUI (PyQT5)
+
+
 ![Atm_UseCase_Diagram](https://user-images.githubusercontent.com/77921425/112040090-6d741980-8b4d-11eb-8f53-e4d7b217aa73.PNG)
 ![Atm_Class_Diagram](https://user-images.githubusercontent.com/77921425/112040103-7107a080-8b4d-11eb-9791-7a4aacd87b0e.jpg)
 
